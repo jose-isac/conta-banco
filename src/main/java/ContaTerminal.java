@@ -1,5 +1,13 @@
 import java.util.Scanner;
 
+/**
+ *  <h1>Conta Terminal</h1>
+ *  <p>Algoritmo que simula a criação de uma conta de banco por meio do terminal</p>
+ *
+ *  @author jose-isac
+ *  @since 25/04/2024
+ * */
+
 public class ContaTerminal {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
