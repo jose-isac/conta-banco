@@ -13,4 +13,4 @@ Verifique se as dependências necessárias estão instaladas:
 ### Clone o repositório
     git clone https://github.com/jose-isac/conta-banco.git
 
-Depois, abra a pasta clonada por meio do seu ambiente de desenvolvimento integrado de preferência(recomendo o Intellij Idea) e coloque para executar.
+Depois, abra a pasta clonada por meio do seu ambiente de desenvolvimento integrado de preferência(recomendo o Intellij Idea), compile e execute.
